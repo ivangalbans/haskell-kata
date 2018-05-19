@@ -1,4 +1,4 @@
--- Definir la función primos_por_criba tal que primos_por_criba es la lista
+-- Definir la función sieve tal que sieve es la lista
 -- de los números primos mediante la criba de Erastótenes.
 
 

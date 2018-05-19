@@ -1,11 +1,11 @@
 
 infile, outfile :: String
 infile = "input.txt"
-outfile = "output.txt"
+outfile = "data/output.txt"
 
 
 main = do {
     text <- readFile infile;
-    writeFile outfile text;
+    writeFile outfile (text ++ "\n" ++ text);
     putStrLn(text);
 }

@@ -1,4 +1,4 @@
--- Definir la función ordena_por_m tal que ordena_por_m l es la lista l ordenada mediante mezclas
+-- Definir la función merge_sort tal que merge_sort l es la lista l ordenada mediante mezclas
 
 
 merge1 :: Ord a => [a] -> [a] -> [a]

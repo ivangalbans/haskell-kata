@@ -1,8 +1,8 @@
-Examples of problems implemented with Haskell
+Examples of problems implemented in Haskell
 =============================================
 
-Abstract
---------
+Description
+-----------
 
 Here you can find some problems implemented in Haskell. Haskell is a functional programming language very used by depelopers around the world.
 
@@ -89,25 +89,29 @@ Contents
 
 40. [Fibonacci](/fibonacci.hs)
 
-41. [Greatest Common Divisor](/gcd.hs)
+41. [Greatest Common Divisor (GCD)](/gcd.hs)
 
-42. [Binary Search Tree](/binary_search_tree.hs)
+42. [Minimum Common Multiple (MCM)](/mcm.hs)
 
-43. [Implementing permutations](/implementing_permutations.hs)
+43. [Binary Search Tree](/binary_search_tree.hs)
 
-44. [All sublist](/sublist.hs)
+44. [Implementing permutations](/implementing_permutations.hs)
 
-45. [N-queens](/nqueens.hs)
+45. [All sublist](/sublist.hs)
 
-46. [Hamming's numbers](/hamming.hs)
+46. [N-queens](/nqueens.hs)
 
-47. [Representing graph](/Graph.hs)
+47. [Hamming's numbers](/hamming.hs)
 
-48. [Pitcher's problem](/Pitcher.hs)
+48. [Representing graph using class](/Graph.hs)
+
+49. [Pitcher's problem](/Pitcher.hs)
+
+50. [Graph isomorphism](/graph_isomorphism.hs)
 
 Author
 ------
 
 * Iván Galbán Smith <ivan.galban.smith@gmail.com>
 
-Faculty of Mathematics and Computer Science. University of Havana
+    4th year, Computer Science. University of Havana. 2018

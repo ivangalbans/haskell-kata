@@ -45,11 +45,10 @@ class Eq v => Grafo v where
     tv = notElem
 
 
-data Vertice = A | B | C | D | E deriving (Show, Eq, Enum)
-instance Grafo Vertice where
-    vertices = [A .. E]
-    suc A = [B,C,D]
-    suc B = [C]
-    suc C = [A,D]
-    suc D = [C]
-    suc E = []
+data G1 v = Nothing | Just
+            deriving (Grafo v)
+
+
+main = do {
+    putStrLn ( show 5 );
+}
