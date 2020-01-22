@@ -1,10 +1,5 @@
-Examples of problems implemented in Haskell
+Popular problems implemented in Haskell
 =============================================
-
-Description
------------
-
-Here you can find some problems implemented in Haskell. Haskell is a functional programming language very used by depelopers around the world.
 
 Contents
 --------
